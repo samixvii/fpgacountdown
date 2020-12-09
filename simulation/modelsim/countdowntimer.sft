@@ -1,0 +1,5 @@
+set tool_name "ModelSim-Altera (Verilog)"
+set corner_file_list {
+	{{"Slow Model"} {countdowntimer.vo countdowntimer_v.sdo}}
+	{{"Fast Model"} {countdowntimer_fast.vo countdowntimer_v_fast.sdo}}
+}

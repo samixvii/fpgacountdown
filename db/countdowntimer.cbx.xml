@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="countdowntimer">
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv2|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_g6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv3|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_gem.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv6|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_f6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv3|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_h6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv4|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_rfm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_58m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv4|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_g6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv5|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_tfm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_58m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv1|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_h6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv2|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_eem.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv5|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_h6m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|bintoval:btv6|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_1gm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|countdowntimer|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_v4m.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
